@@ -45,43 +45,12 @@
                 "des":"NSHipster"
             },
             {
-                "id":"ethanhuang13",
-                "des":"13 - [weak self]播客"
-            },
-            {
-                "id":"Kyle-Ye"
-            },
-            {
                 "id":"ming1016",
                 "des":"戴铭"
             },
             {
-                "id":"mxcl"
-            },
-            {
-                "id":"lkzhao"
-            },
-            {
-                "id":"insidegui"
-            },
-            {
-                "id":"johnno1962",
-                "des":"InjectionIII"
-            },
-            {
-                "id":"wigging",
-                "des":"Back to the Mac"
-            },
-            {
                 "id":"Dimillian",
                 "des":"MovieSwiftUI"
-            },
-            {
-                "id":"krzysztofzablocki",
-                "des":"元编程 Sourcery"
-            },
-            {
-                "id":"onmyway133"
             },
             {
                 "id":"pofat",
@@ -92,26 +61,8 @@
                 "des":"Swift with Majid"
             },
             {
-                "id":"hebertialmeida"
-            },
-            {
-                "id":"kylef",
-                "des":"Commander"
-            },
-            {
-                "id":"joshaber",
-                "des":"at GitHub"
-            },
-            {
                 "id":"ashfurrow",
                 "des":"Moya"
-            },
-            {
-                "id":"jessesquires"
-            },
-            {
-                "id":"livid",
-                "des":"V2EX 掌门人"
             }
         ]
     }

@@ -29,13 +29,13 @@ struct SPSidebar: View {
             Section("Github") {
 
                 if SPC.gitHubAccessToken.isEmpty == false {
-                    NavigationLink {
-                        ExploreRepoListView(showAsGroup: false)
-                    } label: {
-                        SideBarLabel(title: "库动态", imageName: "p6")
-                            .badge(appVM.expCountNotis)
-
-                    } // end NavigationLink
+//                    NavigationLink {
+//                        ExploreRepoListView(showAsGroup: false)
+//                    } label: {
+//                        SideBarLabel(title: "库动态", imageName: "p6")
+//                            .badge(appVM.expCountNotis)
+//
+//                    } // end NavigationLink
                     
                     NavigationLink(destination: ActiveDeveloperListView(vm: IssueVM(repoName: SPC.pamphletIssueRepoName, issueNumber: 30))) {
                         SideBarLabel(title: "开发者", imageName: "p5")
